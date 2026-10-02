@@ -1,10 +1,11 @@
 package software.ulpgc.kata1;
+import java.time.LocalDate;
 
-public class student {
+public class Student {
     private String name;
     private int age;
 
-    public student(String name, int age) {
+    public Student(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -17,4 +18,8 @@ public class student {
         return age;
     }
 
+    public int getYearBirth() {
+        int thisYear = LocalDate.now().getYear();
+        return thisYear - this.getAge();
+    }
 }
