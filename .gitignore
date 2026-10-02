@@ -33,7 +33,17 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
+vscode/
+out/
+bin/
+*.class
+*.jar
+*.war
+*.zip
+*.exe
+.idea/
+*.log
+*.tmp
 
 ### Mac OS ###
 .DS_Store
