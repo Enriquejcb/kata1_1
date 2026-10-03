@@ -34,4 +34,4 @@ programa con el uso de breakpoints.
 - Se ha comprobocado su buen funcionamiento mediante un clonado el reprositorio de GitHub.
 
 ## Vídeo explicativo
-[Enlace a mi vídeo explicativo](Pon aquí tu enlace de YouTube, Drive, etc.)
+https://drive.google.com/file/d/1EYjPoOKaesrzAZESAOBfQLVvVgrlRA5c/view?usp=sharing
